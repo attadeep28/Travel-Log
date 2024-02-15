@@ -15,21 +15,21 @@
 
 ## How To Run
 
-#Step 1 : create .env file and create all these variables
+**Step 1** : create .env file and create all these variables
 
-MONGO_URL = 
-PORT=8000
-AWS_ACCESS_KEY_ID
-AWS_SECRET_ACCESS_KEY
-S3_REGION=
-S3_BUCKET=
-HOST
-EMAIL = 
-PASS = 
+- MONGO_URL = 
+- PORT=8000
+- AWS_ACCESS_KEY_ID
+- AWS_SECRET_ACCESS_KEY
+- S3_REGION=
+- S3_BUCKET=
+- HOST
+- EMAIL = 
+- PASS = 
 
-# step 2 : run npm i 
+**step 2** : run npm i 
 
-# step 3 : run node index.js
+**step 3** : run node index.js
 
 
 
