@@ -12,6 +12,27 @@
 - Highlight the cultural heritage of visited locations
 - Recommend must-visit places
 
+
+## How To Run
+
+#Step 1 : create .env file and create all these variables
+
+MONGO_URL = 
+PORT=8000
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+S3_REGION=
+S3_BUCKET=
+HOST
+EMAIL = 
+PASS = 
+
+# step 2 : run npm i 
+
+# step 3 : run node index.js
+
+
+
 ## Tech Stack
 
 ### Frontend
