@@ -1,6 +1,6 @@
 # Travel Log
 
-visit : http://13.51.79.102/
+visit : [http://13.51.79.102/](http://13.60.42.239/)
 
 ## About
 
@@ -49,7 +49,7 @@ visit : http://13.51.79.102/
 - Javascript
 
 ### Database
-- MongoDB
+- MongoDB (Atlas Search And Atlas Autocomplete for Searching)
 
 ### Authentication: 
 - JSON Web Tokens (JWT) for user authentication
